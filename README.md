@@ -8,3 +8,4 @@ Test scripts for setting up clustered MySQL database in Ubuntu 16.04 machine
 
 * Its preferred that the setup's are of Ubuntu 16.04 or later , Codes tested to be working as per expectation on ubuntu 16.04 (Release 2017)
 
+Note: Setup's not complete yet
